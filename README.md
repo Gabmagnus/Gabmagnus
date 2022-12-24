@@ -26,3 +26,10 @@
     <a href=""><img align="center" height="30" src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" alt="Gab-BNet"></a>
     <a href=""><img align="center" height="30" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Gab-Steam"></a>
 </div>
+
+  ##
+<div id="snk" align="center">
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
