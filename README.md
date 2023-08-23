@@ -1,15 +1,4 @@
 <a name="readme-top"></a>
-
-<!-- [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url] -->
-
-
-
-<!-- PROJECT LOGO -->
 <br />
 
 <div align="center">
@@ -26,34 +15,6 @@
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Veja meus projetos »</strong></a>
   </p>
 </div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<!-- <details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details> -->
 
 
 
@@ -89,6 +50,7 @@
 
   Meu tema favorito atualmente é o Dracula!
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <br />
 
 ## Conhecimentos:
@@ -108,7 +70,6 @@
 
 </details>
 
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <details open>
 <summary>
@@ -141,6 +102,7 @@
 </details>
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <br />
 
 ## Meus Projetos:
@@ -157,11 +119,12 @@ https://maquinaservicos.com
 
 </div>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- MARKDOWN LINKS & IMAGES -->
+
 [githib-statistics]: https://github-readme-stats.vercel.app/api?username=Gabmagnus&show_icons=true&theme=radical&width=40&hide=css&include_all_commits
-
 [githib-metrics]: https://github-readme-stats.vercel.app/api/top-langs/?username=Gabmagnus&layout=compact&langs_count=16&show_icons=true&theme=radical&width=40&hide=css&include_all_commits
-
 [html-badge]: https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [css-badge]: https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [figma-badge]: https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
@@ -178,14 +141,8 @@ https://maquinaservicos.com
 [ubuntu-badge]: https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 [docker-badge]: https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 [vscode-badge]: https://img.shields.io/badge/visualstudio-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white
-
-
 [cev-badge]: https://img.shields.io/badge/CursoEmVideo-2222FF?style=for-the-badge&logo=CursoEmVideo&logoColor=white
-
-
 [danki-badge]: https://img.shields.io/badge/DankiCode-AF89FF?style=for-the-badge&logo=DankiCode&logoColor=white
-
-
 [chatgpt-badge]: https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=ChatGPT&logoColor=white
 
 
@@ -210,57 +167,3 @@ https://maquinaservicos.com
 [cev-url]: https://www.cursoemvideo.com/Gabmagnus
 [danki-url]: https://cursos.dankicode.com/
 [chatgpt-url]: chat.openai.com/
-<!-- <div id="main-dashboard" align="center">
-    <a href="http://github.com/Gabmagnus">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabmagnus&show_icons=true&theme=radical&include_all_commits" alt="Github-first-square">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabmagnus&layout=compact&langs_count=16&show_icons=true&theme=radical" alt="Github-first-square">
-</div>
-
-<br>
-<br>
-
-  ##
-
-<br>
-<br>
-
-
-<div id="container">
-        <div id="right" align="right">
-            <img align="right" height="200px" src="https://github.com/Gabmagnus/Gabmagnus/blob/main/icon.png" alt="Gab-image">
-        </div>
-    <div id="left" align="left">
-        <div id="lang" align="left" style="display: inline-block">
-            <h3>Linguagens</h3>
-            <div width="200px"/>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Gab-js" height="30px" width="40px">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Gab-html" height="30px" width="40px">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Gab-css" height="30px" width="40px">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Gab-python" height="30px" width="40px">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="Gab-php-learning" height="30px" width="40px">
-        </div>
-        </div>
-        <div id="socials" align="left" style="display: inline-block">
-            <h3>Contacte-me por aqui:</h3>
-            <div style="width: 200px"></div>
-            <a href=""><img height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gab-Mail"></a>
-            <a href=""><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Gab-Discord"></a>
-            <a href=""><img height="30px" src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" alt="Gab-BNet"></a>
-            <a href=""><img height="30px" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Gab-Steam"></a>
-        </div>
-    </div>
-
-</div>
-<br>
-<br>
-
-  ##
-
-<br>
-<br>
-
-<div id="snk" align="center">
-
-  ![Snake animation](https://github.com/Gabmagnus/Gabmagnus/blob/output/github-contribution-grid-snake.svg)
-  
-</div> -->
