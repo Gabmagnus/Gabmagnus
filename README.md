@@ -55,6 +55,7 @@
 * [![JavaScript][js-badge]][js-url]
   * [![Jquery][jquery-badge]][jquery-url]
   * [![TypeScript][typescript-badge]][typescript-url]
+  * [![React][React-badge]][React-url]
 * [![Figma][figma-badge]][figma-url]
 
 </details>
@@ -118,6 +119,7 @@ https://maquinaservicos.com
 [css-badge]: https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [figma-badge]: https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 [js-badge]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
+[js-badge]: https://img.shields.io/badge/react-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
 [jquery-badge]: https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [typescript-badge]: https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
 [php-badge]: https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white
@@ -141,6 +143,7 @@ https://maquinaservicos.com
 [js-url]: https://www.vanilla-js.com
 [jquery-url]: https://jquery.com/
 [typescript-url]: https://www.typescriptlang.org/
+[react-url]: https://www.react.org/
 [php-url]: https://www.php.net/
 [python-url]: https://www.python.org/
 [mysql-url]: https://www.mysql.com
