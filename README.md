@@ -31,10 +31,10 @@
 </summary>
 
 * [![CursoEmVideo][cev-badge]][cev-url]
-
 * [![Danki][danki-badge]][danki-url]
-
 * [![chatgpt][chatgpt-badge]][chatgpt-url]
+
+</details>
 <br />
 
   Meu tema favorito atualmente é o Dracula!
