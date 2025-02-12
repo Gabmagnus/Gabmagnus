@@ -12,7 +12,6 @@
     Atualmente sou um desenvolvedor junior juntando conhecimento para futuramente se tornar um desenvolvedor full-stack!
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Veja meus projetos »</strong></a>
   </p>
 </div>
 
@@ -32,20 +31,10 @@
 </summary>
 
 * [![CursoEmVideo][cev-badge]][cev-url]
-  <details>
-  O professor Gustavo é incrivel, mesmo sendo uma plataforma de aprendizado gratúita, o nivel de ensino é completamente alto e compreensivel até para quem nunca tocou em um computador!
-  </details>
 
 * [![Danki][danki-badge]][danki-url]
-  <details>
-  Dankicode foi minha primeira plataforma de estudos paga, foi um investimento que concerteza valeu a pena! Guilherme é um otimo professor e as aulas, apesar de um pouco corridas, sao muito informativas
-  </details>
 
 * [![chatgpt][chatgpt-badge]][chatgpt-url]
-  <details>
-  Uma fonte absurda de conhecimento, consegue explicar coisas de uma forma limpa e facil de entender, tirei muitas duvidas com o ChatGPT. (não roube meu futuro emprego, por favor!)
-  </details>
-</details>
 <br />
 
   Meu tema favorito atualmente é o Dracula!
